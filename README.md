@@ -1,4 +1,4 @@
-# 📌 About me
+# 📄 About me
 
 ### Beginner in languages
 ![](https://skillicons.dev/icons?i=css) ![](https://skillicons.dev/icons?i=html)
