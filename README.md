@@ -1,5 +1,5 @@
 # 📄 | About me
-
+- From Czech Republic 🇨🇿
 <h3>Beginner in languages</h3>
 <img src="https://skillicons.dev/icons?i=html,lua,js,discordjs,nodejs" />
 <h3>📱 Socials (click on the logo)</h3>
